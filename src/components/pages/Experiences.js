@@ -23,9 +23,6 @@ const experiences = () => {
           <h4 className = "vertical-timeline-element-subtitle">Bachelor's Degree</h4>
           <p>Computer Science, Digital Arts and Sciences Minor</p>
         </VerticalTimelineElement>
-      </VerticalTimeline>
-
-      <VerticalTimeline lineColor = "#3e497a">
         <VerticalTimelineElement
           className = "vertical-timeline-element--work"
           date="May 2023 - July 2023"
@@ -36,9 +33,6 @@ const experiences = () => {
           <h4 className = "vertical-timeline-element-subtitle">Software Engineering Intern</h4>
           <p>TBD</p>
         </VerticalTimelineElement>
-      </VerticalTimeline>
-
-      <VerticalTimeline lineColor = "#3e497a">
         <VerticalTimelineElement
           className = "vertical-timeline-element--work"
           date="May 2023 - July 2023"
