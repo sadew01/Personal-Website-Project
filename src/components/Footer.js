@@ -12,7 +12,7 @@ const footer = () => {
             <GitHubIcon onClick={() => window.open('https://github.com/sadew01')}/>
             <EmailIcon onClick={() => window.location = 'mailto:swhitcomb@ufl.edu'}/>
         </div>
-        <p> &copy; 2023 sadewhitcomb.com</p>
+        <p> &copy; 2023 sadewhitcomb.com </p>
     </div>
   )
 }
