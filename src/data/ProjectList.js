@@ -6,12 +6,10 @@ export const ProjectList = [
         name: "Mediveal Clicker",
         image: proj1,
         skills: "Unity, C",
-        github: "https://github.com/christinealin7771/Medieval-Clicker",
     },
     {
         name: "Classmate Finder",
         image: proj2,
         skills: "Javascript, React",
-        github: "https://github.com/christinealin7771"
     }
 ]
