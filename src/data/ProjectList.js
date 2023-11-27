@@ -1,15 +1,13 @@
-import proj1 from '../images/proj1.jpg'
-import proj2 from '../images/proj2.jpg'
+import WitchyFeudTitle from '../images/WitchyFeudTitle.png'
 
 export const ProjectList = [
     {
-        name: "Mediveal Clicker",
-        image: proj1,
-        skills: "Unity, C",
+        name: "Movie Magic",
+        skills: "C++",
     },
     {
-        name: "Classmate Finder",
-        image: proj2,
-        skills: "Javascript, React",
+        name: "Witchy Feud",
+        image: WitchyFeudTitle,
+        skills: "Unity, C#",
     }
 ]
